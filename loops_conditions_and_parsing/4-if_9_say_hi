@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 #4-if_9_say_hi
 i=1
-while [ $i -le 10 ]
+while [ $i -le 9 ]
 do
-if [ $i -eq 8 ]
+if [ $i -eq 9 ]
 then
 	
-echo -e "Best Schoo  \nHi"
+echo -e "Best School  \nHi"
 
 else
 echo "Best School"
